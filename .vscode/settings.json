@@ -1,3 +1,4 @@
 {
-    "python.linting.pylintEnabled": true
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/home/heath/.local/share/virtualenvs/ticket-helper-server-LHCSgpnQ/bin/python"
 }
